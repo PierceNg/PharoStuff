@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "PierceNg 7/30/2017 17:06",
+	"super" : "TestCase",
+	"category" : "PN-DSML",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"slr",
+		"df"
+	],
+	"name" : "SLRCalculatorTests",
+	"type" : "normal"
+}
